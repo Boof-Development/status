@@ -17,6 +17,7 @@ sites:
     expectedStatusCodes:
       - 200
       - 201
+      - 400
       - 404
       
   - name: CDN2
