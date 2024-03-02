@@ -41,11 +41,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/db.080609.xyz.ico",
     "slug": "db",
     "status": "up",
-    "uptime": "94.29%",
+    "uptime": "94.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.20%",
     "uptimeMonth": "98.94%",
-    "uptimeYear": "94.29%",
+    "uptimeYear": "94.32%",
     "time": 434,
     "timeDay": 407,
     "timeWeek": 403,
@@ -98,7 +98,7 @@
     "timeMonth": 75,
     "timeYear": 104,
     "dailyMinutesDown": {
-      "2024-03-02": 26,
+      "2024-03-02": 566,
       "2024-03-01": 1440,
       "2024-02-29": 1440,
       "2024-02-28": 1440,
@@ -171,9 +171,9 @@
     "url": "https://cdn3.boofdev.eu",
     "icon": "https://icons.duckduckgo.com/ip3/cdn3.boofdev.eu.ico",
     "slug": "cdn-3",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -182,6 +182,8 @@
     "timeWeek": 945,
     "timeMonth": 487,
     "timeYear": 501,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-02": 0
+    }
   }
 ]
