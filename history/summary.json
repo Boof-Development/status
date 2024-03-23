@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/merch.kukfest.eu.ico",
     "slug": "kukfest-merch",
     "status": "down",
-    "uptime": "99.27%",
-    "uptimeDay": "37.26%",
-    "uptimeWeek": "91.04%",
-    "uptimeMonth": "97.94%",
-    "uptimeYear": "99.27%",
+    "uptime": "98.68%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "83.62%",
+    "uptimeMonth": "96.23%",
+    "uptimeYear": "98.68%",
     "time": 199,
-    "timeDay": 74,
+    "timeDay": 35,
     "timeWeek": 104,
     "timeMonth": 133,
     "timeYear": 199,
     "dailyMinutesDown": {
-      "2024-03-23": 27,
+      "2024-03-23": 775,
       "2024-03-22": 877
     }
   },
@@ -44,15 +44,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/db.080609.xyz.ico",
     "slug": "db",
     "status": "up",
-    "uptime": "94.98%",
+    "uptime": "95.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "91.30%",
     "uptimeMonth": "97.81%",
-    "uptimeYear": "94.98%",
+    "uptimeYear": "95.01%",
     "time": 464,
     "timeDay": 383,
     "timeWeek": 680,
-    "timeMonth": 515,
+    "timeMonth": 514,
     "timeYear": 464,
     "dailyMinutesDown": {
       "2024-03-21": 464,
@@ -103,7 +103,7 @@
     "timeMonth": 81,
     "timeYear": 99,
     "dailyMinutesDown": {
-      "2024-03-23": 27,
+      "2024-03-23": 775,
       "2024-03-22": 1440,
       "2024-03-21": 1440,
       "2024-03-20": 1440,
@@ -197,7 +197,7 @@
     "url": "https://cdn3.boofdev.eu",
     "icon": "https://icons.duckduckgo.com/ip3/cdn3.boofdev.eu.ico",
     "slug": "cdn-3",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -208,6 +208,8 @@
     "timeWeek": 597,
     "timeMonth": 539,
     "timeYear": 477,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-23": 0
+    }
   }
 ]
