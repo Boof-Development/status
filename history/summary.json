@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/merch.kukfest.eu.ico",
     "slug": "kukfest-merch",
     "status": "down",
-    "uptime": "98.67%",
+    "uptime": "98.62%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "83.56%",
-    "uptimeMonth": "96.22%",
-    "uptimeYear": "98.67%",
+    "uptimeWeek": "82.88%",
+    "uptimeMonth": "96.06%",
+    "uptimeYear": "98.62%",
     "time": 199,
     "timeDay": 35,
     "timeWeek": 104,
     "timeMonth": 133,
     "timeYear": 199,
     "dailyMinutesDown": {
-      "2024-03-23": 780,
+      "2024-03-23": 849,
       "2024-03-22": 877
     }
   },
@@ -73,18 +73,20 @@
     "url": "https://cdn1.boofdev.eu",
     "icon": "https://icons.duckduckgo.com/ip3/cdn1.boofdev.eu.ico",
     "slug": "cdn-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 457,
-    "timeDay": 285,
-    "timeWeek": 323,
-    "timeMonth": 337,
-    "timeYear": 457,
-    "dailyMinutesDown": {}
+    "time": 470,
+    "timeDay": 962,
+    "timeWeek": 488,
+    "timeMonth": 381,
+    "timeYear": 470,
+    "dailyMinutesDown": {
+      "2024-03-23": 1
+    }
   },
   {
     "name": "CDN2",
@@ -103,7 +105,7 @@
     "timeMonth": 81,
     "timeYear": 99,
     "dailyMinutesDown": {
-      "2024-03-23": 780,
+      "2024-03-23": 849,
       "2024-03-22": 1440,
       "2024-03-21": 1440,
       "2024-03-20": 1440,
@@ -199,17 +201,15 @@
     "slug": "cdn-3",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 472,
     "timeDay": 180,
     "timeWeek": 530,
     "timeMonth": 524,
     "timeYear": 472,
-    "dailyMinutesDown": {
-      "2024-03-23": 5
-    }
+    "dailyMinutesDown": {}
   }
 ]
